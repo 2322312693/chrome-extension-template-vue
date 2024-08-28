@@ -57,10 +57,8 @@ AI completes multi-language Chrome extension with one click
 Real-time logging of plugin log error information
 
 
+<img src="docs/images/wechat.jpg" alt="Vue.js Chrome Extension Template images" width="300">
 
-
-
-![Vue.js Chrome Extension Template images](docs/images/wechat.jpg)
 
 ### Contact me for technical support and technical exchange
 
