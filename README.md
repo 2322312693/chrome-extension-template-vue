@@ -2,31 +2,64 @@
 
 ### 在Vue.js 上快速创建Chrome插件，开发实现热加载无需在手动刷新扩展
 
-### 目录
+### Structure 结构
 
 ```
-├── index.html
+
 ├── src
-│   ├── App.vue 
-│   ├── assets
-│   │   └── vue.svg
-│   ├── background.js //background runtime
-│   ├── components
-│   ├── content
-│   │   └── content.js //content-script||植入代码
-│   ├── main.js
+│   ├── assets 
+│   ├── background.js // background runtime 运行时
+│   ├── components 
+│   ├── content  // content-script 运行时
+│   │   └── content.js
+│   ├── pages  
+│   │   ├── popup  
+│   │   │   ├── index.html
+│   │   │   ├── index.js
+│   │   │   └── index.vue
+│   │   └── welcome
+│   │       ├── index.html
+│   │       ├── index.js
+│   │       └── index.vue
 │   ├── public
 │   │   ├── images
-│   │   │   ├── 128px.png
-│   │   │   ├── 16px.png
-│   │   │   └── 45px.png
-│   │   └── vite.svg
+│   │   │   ├── 128px.png  //logo
+│   │   │   ├── 16px.png  
+│   │   │   └── 48px.png
 │   └── style.css
-├── manifest.json  // extension manifrst||插件清单文件
+├── manifest.json  //manifest.json 清单文件
 ├── package-lock.json
 ├── package.json
 ├── postcss.config.js
-├── tailwind.config.js
+├── tailwind.config.js 
 └── vite.config.js
 
 ```
+
+```bash
+# git clone 
+$ npm install 
+$ npm run dev
+$ npm run build
+```
+
+
+### More technical consultation && Sponsorship
+
+More technical support
+
+AI completes multi-language Chrome extension with one click
+
+Real-time logging of plugin log error information
+
+
+
+
+
+![Vue.js Chrome Extension Template images](docs/images/wechat.jpg)
+
+### Contact me for technical support and technical exchange
+
+Email:2322312693@qq.com
+
+### Developed Chrome extensions with over 300,000 users
