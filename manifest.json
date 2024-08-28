@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "CRXJS Vue Vite Example",
+  "version": "1.0.0",
+  "permissions": [
+    "identity",
+    "identity.email",
+    "contextMenus",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "src/background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "src/content/content.js"
+      ],
+      "run_at": "document_end",
+      "match_about_blank": true,
+      "all_frames": true
+    }
+  ],
+  "action": {
+    "default_title": "Click Open",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "src/public/images/16px.png",
+      "48": "src/public/images/48px.png",
+      "128": "src/public/images/128px.png"
+    }
+  },
+  "icons": {
+    "16": "src/public/images/16px.png",
+    "48": "src/public/images/48px.png",
+    "128": "src/public/images/128px.png"
+  }
+}
