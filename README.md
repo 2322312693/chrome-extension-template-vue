@@ -1,4 +1,4 @@
-# Vue 3 + Vite  Extensions Template
+# Vue 3 + Vite +Tailwindcss Extensions Template
 
 ### 在Vue.js 上快速创建Chrome插件，开发实现热加载无需在手动刷新扩展 (Quickly create Chrome plugins on Vue.js and develop hot loading without manually refreshing the extension )
 
