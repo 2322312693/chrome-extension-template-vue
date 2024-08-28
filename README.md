@@ -1,6 +1,10 @@
 # Vue 3 + Vite  Extensions Template
 
-### 在Vue.js 上快速创建Chrome插件，开发实现热加载无需在手动刷新扩展
+### 在Vue.js 上快速创建Chrome插件，开发实现热加载无需在手动刷新扩展 (Quickly create Chrome plugins on Vue.js and develop hot loading without manually refreshing the extension )
+
+
+
+![Vue.js Chrome Extension Template images](docs/images/main.jpg)
 
 ### Structure 结构
 
@@ -37,7 +41,7 @@
 ```
 
 ```bash
-# git clone 
+$ git clone  https://github.com/2322312693/chrome-extension-template-vue.git
 $ npm install 
 $ npm run dev
 $ npm run build
