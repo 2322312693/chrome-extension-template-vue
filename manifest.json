@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "CRXJS Vue Vite Example",
+  "name": "Chrome-Extension-Template-Vue",
+  "description": "description(描述)",
   "version": "1.0.0",
   "permissions": [
     "identity",
@@ -27,7 +28,7 @@
   ],
   "action": {
     "default_title": "Click Open",
-    "default_popup": "index.html",
+    "default_popup": "src/pages/popup/index.html",
     "default_icon": {
       "16": "src/public/images/16px.png",
       "48": "src/public/images/48px.png",

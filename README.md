@@ -1,5 +1,32 @@
-# Vue 3 + Vite
+# Vue 3 + Vite  Extensions Template
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### 在Vue.js 上快速创建Chrome插件，开发实现热加载无需在手动刷新扩展
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 目录
+
+```
+├── index.html
+├── src
+│   ├── App.vue 
+│   ├── assets
+│   │   └── vue.svg
+│   ├── background.js //background runtime
+│   ├── components
+│   ├── content
+│   │   └── content.js //content-script||植入代码
+│   ├── main.js
+│   ├── public
+│   │   ├── images
+│   │   │   ├── 128px.png
+│   │   │   ├── 16px.png
+│   │   │   └── 45px.png
+│   │   └── vite.svg
+│   └── style.css
+├── manifest.json  // extension manifrst||插件清单文件
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
+
+```
