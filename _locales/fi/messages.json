@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI-kotitehtäväavustaja",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Ota vain kuvakaappaus, voit etsiä helposti vastauksia opiskelukysymyksiisi. Tukee useita koulutusaloja.",
+    "description": "Extension description"
+  }
+}

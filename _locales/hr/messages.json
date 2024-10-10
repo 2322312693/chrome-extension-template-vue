@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI pomoćnik za zadaću",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Samo napravite snimku zaslona, možete lako pretraživati za odgovore na vaša studijska pitanja. Podržava više disciplina.",
+    "description": "Extension description"
+  }
+}

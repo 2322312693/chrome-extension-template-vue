@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Trợ lý Làm bài tập AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Chỉ cần chụp màn hình, bạn có thể dễ dàng tìm kiếm câu trả lời cho các câu hỏi học tập của mình. Hỗ trợ nhiều ngành học.",
+    "description": "Extension description"
+  }
+}

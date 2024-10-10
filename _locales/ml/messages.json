@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI ഹോംവർക്ക് സഹായി",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ഒരു സ്ക്രീൻഷോട്ട് എടുക്കുക മാത്രം ചെയ്യുക, നിങ്ങളുടെ പഠന ചോദ്യങ്ങൾക്കുള്ള ഉത്തരങ്ങൾ എളുപ്പത്തിൽ തിരയാം. ഒട്ടേറെ വിഷയങ്ങളെ പിന്തുണയ്ക്കുന്നു.",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Asistent teme AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Este suficient să faci o captură de ecran, puteți căuta cu ușurință răspunsuri la întrebările de studiu. Acceptă mai multe discipline.",
+    "description": "Extension description"
+  }
+}

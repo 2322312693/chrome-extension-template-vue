@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Assistente de Tarefas Escolares da AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Basta tirar um print da tela, você pode facilmente pesquisar respostas para suas perguntas de estudo. Suporta múltiplas disciplinas.",
+    "description": "Extension description"
+  }
+}

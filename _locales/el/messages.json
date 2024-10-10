@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Βοηθός εργασιών AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Απλώς κάντε ένα στιγμιότυπο οθόνης, μπορείτε εύκολα να αναζητήσετε απαντήσεις στις ερωτήσεις μελέτης σας. Υποστηρίζει πολλαπλές πειθαρχίες.",
+    "description": "Extension description"
+  }
+}

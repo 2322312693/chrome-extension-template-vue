@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI作業助手",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "只需截圖,您就可以輕鬆搜索學習問題的答案。支持多學科。",
+    "description": "Extension description"
+  }
+}

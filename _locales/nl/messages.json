@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI huiswerk helper",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Maak gewoon een schermafbeelding, u kunt gemakkelijk antwoorden vinden op uw studievragen. Ondersteunt meerdere disciplines.",
+    "description": "Extension description"
+  }
+}

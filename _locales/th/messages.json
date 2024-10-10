@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ผู้ช่วยการบ้าน AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "เพียงจับภาพหน้าจอ คุณสามารถค้นหาคําตอบของคําถามการศึกษาได้อย่างง่ายดาย รองรับหลายสาขาวิชา",
+    "description": "Extension description"
+  }
+}

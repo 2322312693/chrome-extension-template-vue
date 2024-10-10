@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Asistent domácich úloh AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Jednoducho urobte snímku obrazovky, na študijné otázky môžete ľahko nájsť odpovede. Podporuje viacero odborov.",
+    "description": "Extension description"
+  }
+}

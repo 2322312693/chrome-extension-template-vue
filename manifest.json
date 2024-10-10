@@ -1,12 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "Chrome-Extension-Template-Vue",
-  "description": "description(描述)",
-  "version": "1.0.0",
+  "default_locale":"en",
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDescription__",
+  "version": "2.5.1",
   "permissions": [
+    "sidePanel",
     "identity",
     "identity.email",
+    "storage",
     "contextMenus",
+    "scripting",
     "activeTab"
   ],
   "background": {
@@ -19,16 +23,13 @@
         "<all_urls>"
       ],
       "js": [
-        "src/content/content.js"
+        "src/content/screenshot/index.js"
       ],
-      "run_at": "document_end",
-      "match_about_blank": true,
-      "all_frames": true
+      "run_at": "document_end"
     }
   ],
   "action": {
-    "default_title": "Click Open",
-    "default_popup": "src/pages/popup/index.html",
+    "default_title": "Click to open panel",
     "default_icon": {
       "16": "src/public/images/16px.png",
       "48": "src/public/images/48px.png",
@@ -39,5 +40,8 @@
     "16": "src/public/images/16px.png",
     "48": "src/public/images/48px.png",
     "128": "src/public/images/128px.png"
-  }
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "አይ AI የስራ ሂደት አጋዥ",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ገና ጥቅል ያንሱ፣ ለጥናቶችዎ ጥያቄዎች ምላሾችን በብቸኝነት መፈለግ ይችላሉ። በርካታ አሰራሮችን ያግዛል።",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI namų darbų padėjėjas",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Tiesiog padarykite ekrano kopiją, galėsite lengvai rasti atsakymus į savo studijų klausimus. Palaiko kelias disciplinas.",
+    "description": "Extension description"
+  }
+}

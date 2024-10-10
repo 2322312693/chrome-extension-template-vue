@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI házi feladatsegéd",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Csak készítsen képernyőképet, a tanulmányi kérdésekre könnyen kereshet válaszokat. Több tantárgyat is támogat.",
+    "description": "Extension description"
+  }
+}

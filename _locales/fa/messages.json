@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "همکار تکالیف خانگی AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "فقط یک نماگرفت از صفحه بگیرید، می توانید به راحتی به سؤالات مطالعاتی خود پاسخ دهید. پشتیبانی از رشته های متعدد.",
+    "description": "Extension description"
+  }
+}

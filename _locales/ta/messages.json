@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI வீட்டுப்பணி உதவியாளர்",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ஒரு ஸ்க்ரீன்ஷாட் எடுத்துவிட்டு, உங்கள் படிப்புக் கேள்விகளுக்கான விடைகளை எளிதில் தேடலாம். பல்வேறு துறைகளை ஆதரிக்கிறது.",
+    "description": "Extension description"
+  }
+}

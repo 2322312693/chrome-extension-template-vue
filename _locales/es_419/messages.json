@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Asistente de tareas de AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Simplemente tome una captura de pantalla, puede buscar fácilmente respuestas a sus preguntas de estudio. Compatible con múltiples disciplinas.",
+    "description": "Extension description"
+  }
+}

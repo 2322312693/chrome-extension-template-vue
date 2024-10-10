@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Msaidizi wa kazi ya nyumbani ya AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Chukua tu skrini, unaweza kwa urahisi kutafuta majibu ya maswali yako ya masomo. Inasaidia maalumu mbalimbali.",
+    "description": "Extension description"
+  }
+}

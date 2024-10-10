@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI Pembantu PR",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Cukup ambil screenshot, Anda dapat dengan mudah mencari jawaban untuk pertanyaan studi Anda. Mendukung beberapa disiplin ilmu.",
+    "description": "Extension description"
+  }
+}

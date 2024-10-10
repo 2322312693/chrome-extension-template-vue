@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI হোমওয়ার্ক হেলপার",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "শুধু একটি স্ক্রিনশট নিন, আপনার অধ্যয়ন প্রশ্নের উত্তর সহজেই খুঁজে পাবেন। একাধিক শাখা সমর্থন করে।",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Помощник по домашней работе ИИ",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Просто сделайте снимок экрана, вы можете легко найти ответы на свои учебные вопросы. Поддерживает несколько дисциплин.",
+    "description": "Extension description"
+  }
+}

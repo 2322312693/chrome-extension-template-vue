@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI mājasdarbu palīgs",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Vienkārši uzņemiet ekrānshotu, jūs varat viegli meklēt atbildes uz saviem studiju jautājumiem. Atbalsta vairākas disciplīnas.",
+    "description": "Extension description"
+  }
+}

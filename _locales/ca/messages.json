@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Assistent de deures AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Només has de fer una captura de pantalla, pots buscar fàcilment respostes a les teves preguntes d'estudi. Suporta múltiples disciplines.",
+    "description": "Extension description"
+  }
+}

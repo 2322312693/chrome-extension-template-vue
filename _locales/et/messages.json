@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI kodutöö abi",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Tehke lihtsalt ekraanitõmmis, leiate oma õpiküsimustele kergesti vastuseid. Toetab mitut eriala.",
+    "description": "Extension description"
+  }
+}

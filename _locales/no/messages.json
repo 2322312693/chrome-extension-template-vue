@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI leksehjelper",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Bare ta et skjermbilde, så kan du enkelt søke etter svar på studie-spørsmålene dine. Støtter flere fagområder.",
+    "description": "Extension description"
+  }
+}

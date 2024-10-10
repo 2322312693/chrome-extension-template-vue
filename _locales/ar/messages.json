@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "مساعد الواجبات المنزلية AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ما عليك سوى التقاط لقطة شاشة ، يمكنك بسهولة البحث عن إجابات لأسئلة الدراسة الخاصة بك. يدعم عدة تخصصات.",
+    "description": "Extension description"
+  }
+}

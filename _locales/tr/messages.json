@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI Ödev Yardımcısı",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Sadece bir ekran görüntüsü alın, çalışma sorularınıza yanıtları kolayca arayabilirsiniz. Birçok disiplini destekler.",
+    "description": "Extension description"
+  }
+}

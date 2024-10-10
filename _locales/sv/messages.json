@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI läxhjälp",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Ta bara en skärmdump, du kan enkelt söka efter svar på dina studiefrågor. Stöder flera ämnen.",
+    "description": "Extension description"
+  }
+}

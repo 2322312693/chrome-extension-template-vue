@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI宿題助手",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "スクリーンショットを撮るだけで、勉強の質問への答えを簡単に検索できます。複数の学問分野に対応しています。",
+    "description": "Extension description"
+  }
+}

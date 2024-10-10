@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI-Hausaufgabenhelfer",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Machen Sie einfach einen Screenshot, Sie können ganz einfach Antworten auf Ihre Studienfragen finden. Unterstützt mehrere Disziplinen.",
+    "description": "Extension description"
+  }
+}

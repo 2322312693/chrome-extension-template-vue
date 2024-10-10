@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Assistente de TPC AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Basta tirar um print screen, pode facilmente procurar respostas às suas perguntas de estudo. Suporta múltiplas disciplinas.",
+    "description": "Extension description"
+  }
+}

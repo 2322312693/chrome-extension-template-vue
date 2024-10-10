@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "עוזר שיעורי בית AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "פשוט צלם מסך, תוכל בקלות לחפש תשובות לשאלות הלימוד שלך. תומך במספר תחומים.",
+    "description": "Extension description"
+  }
+}

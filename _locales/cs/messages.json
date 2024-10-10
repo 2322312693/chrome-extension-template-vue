@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI domácí pomocník",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Stačí udělat snímek obrazovky, na studijní otázky můžete snadno najít odpovědi. Podporuje více oborů.",
+    "description": "Extension description"
+  }
+}

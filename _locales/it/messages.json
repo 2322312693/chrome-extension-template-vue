@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Assistente compiti AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Basta fare uno screenshot, puoi facilmente cercare risposte alle tue domande di studio. Supporta più discipline.",
+    "description": "Extension description"
+  }
+}

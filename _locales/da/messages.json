@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI hjemmearbejdshjælper",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Tag blot et skærmbillede, du kan nemt søge efter svar på dine studiemæssige spørgsmål. Understøtter flere discipliner.",
+    "description": "Extension description"
+  }
+}

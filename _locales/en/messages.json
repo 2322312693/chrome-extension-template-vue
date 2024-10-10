@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AI Homework Helper",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Just take a screenshot, you can easily search for answers to your study questions. Supporting multiple disciplines.",
+    "description": "Extension description"
+  }
+}

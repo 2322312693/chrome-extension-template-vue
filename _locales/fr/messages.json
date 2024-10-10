@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Assistant devoirs AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Il vous suffit de faire une capture d'écran, vous pouvez facilement rechercher des réponses à vos questions d'étude. Prend en charge plusieurs disciplines.",
+    "description": "Extension description"
+  }
+}

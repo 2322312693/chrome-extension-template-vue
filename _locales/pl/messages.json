@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Asystent zadań domowych AI",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Wystarczy zrobić zrzut ekranu, możesz łatwo znaleźć odpowiedzi na pytania ze swoich studiów. Obsługuje wiele dyscyplin.",
+    "description": "Extension description"
+  }
+}
